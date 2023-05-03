@@ -1,2 +1,4 @@
 Source file1
-New line i this file
+New line in this file.
+Another line
+
