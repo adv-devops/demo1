@@ -1,7 +1,7 @@
 Source file2
 This is new file in my souce code
-This is another new line in my source code.
+This is another new line in my source code
 
 Created by me.
-(c) Copyleft.
+(c) Copyleft by ME.
 
