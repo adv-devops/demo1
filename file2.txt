@@ -1,7 +1,8 @@
 Source file2
 This is new file in my souce code
-This is another new line in my source code
+This is another new line in my source code for demo purpose on GitHub.
 
 Created by me.
 (c) Copyleft by ME.
+Hello World!
 
