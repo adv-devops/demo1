@@ -1,1 +1,2 @@
 Source of file3
+Hello test 
