@@ -1,4 +1,4 @@
 Source file1
 New line in this file.
-Another line
-
+Another line/
+Hello from another developer!
